@@ -25,7 +25,7 @@ def dijkstra(graph, source):
 
     return distances
 
-# Example!!
+# Example!!!
 if __name__ == "__main__":
     graph = [
         [0, 4, 0, 0, 2, 0, 0, 8, 0],
