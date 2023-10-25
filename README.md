@@ -1,1 +1,1 @@
-# just a little example python script solving the alg
+#  python script example solving the alg
